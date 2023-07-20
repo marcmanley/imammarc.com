@@ -1,8 +1,13 @@
-<?php include('../../header-main.php'); ?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
 
 <?php include('../../meta-1.php'); ?>
 
-<!-- Social Media Thumbnail -->
+<?php // begin fit-at-50.php ?>
+
+<?php // Social Media Thumbnail ?> 
 <meta property="og:title" content="Imam Marc Manley">
 	<meta property="og:description" content="Imam Marc Manley's Official Website">
 	<meta property="og:image" content="https://imammarc.com/media/imgs/fit-at-50-one-year-update.png">
@@ -45,8 +50,6 @@
     display: inline-block;
 }
   </style>
-  
-<title>Imam Marc Manley &mdash; Fit At 50</title>
 
 </head>
 
@@ -67,14 +70,14 @@
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl8g6a6tST4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 
-    <p class="pages date"">Dececember 2021</p>
+    <p class="pages date">Dececember 2021</p>
     <p class="pages">The narrative is flawed. The focus should be on comprehensive health. You don’t have to pick a side.</p>
 
     <div class="embed-responsive embed-responsive-16by9">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/qZgR2lFXwPc" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
-    <p class="pages date"">Dececember  2021</p>
+    <p class="pages date">Dececember  2021</p>
     <p class="pages">al-Ḥamdulillāh. After 12 months of fasting 16 hours every day, my results have been pretty astounding: A1-C 5.6 (from almost 12!). Testosterone up. Nearly 50lbs. lost. All I can say is give it a try if you’re interested in improving your overall health vs. solely relying on jabs.</p>
 
     <div class="embed-responsive embed-responsive-16by9">
@@ -90,7 +93,6 @@
     <?php include('../../footer-universal.php'); ?>
 
   </div>
-  <!-- Updated 11/6/2019 -->
 
   <script>
     (function (i, s, o, g, r, a, m) {

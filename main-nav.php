@@ -1,3 +1,4 @@
+<!-- begin main-nav.php -->
 <header class="header">
 			<h1>Marc Manley</h1>
 			<h2>Imam &amp; Religious Director</h2>
