@@ -1,7 +1,7 @@
 # Ignore all large media files
 
-.mp3
-.wav
-.pdf
-.zip
-.DS_Store
+*.mp3
+*.wav
+*.pdf
+*.zip
+*.DS_Store
