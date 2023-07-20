@@ -5,9 +5,10 @@
 <!-- Social Media Thumbnail -->
 <meta property="og:title" content="Imam Marc Manley">
 	<meta property="og:description" content="Imam Marc Manley's Official Website">
-	<meta property="og:image" content="https://imammarc.com/media/imgs/imammarcmanley-website-social-media-thumbnial.png">
-	<meta property="og:url" content="https://imammarc.com">
+	<meta property="og:image" content="https://imammarc.com/media/imgs/fit-at-50-one-year-update.png">
+	<meta property="og:url" content="https://imammarc.com/pages/non-articles/fit-at-50.php">
 	<meta name="twitter:card" content="summary_large_image">
+  <meta property="og:type" content="website">
 
   <?php include('../../meta-2.php'); ?>
 
