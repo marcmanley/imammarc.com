@@ -16,7 +16,7 @@
 				
 				<dd><a href="pages/articles/performative-islam.html">Performative Islam</a></dd>
 				<dd><a href="pages/non-articles/ikhlas-salaam-islamic-center-july-2023.php">Ikhlas Retreat</a></dd>
-				<dd><a href="pages/articles/modernist-muslims.html">The Modernist Muslim</a></dd>
+				<dd><a href="pages/articles/modernist-muslims.php">The Modernist Muslim</a></dd>
 				<dd><a href="pages/non-articles/fit-at-50.php">Fit At 50</a></dd>
 				<dd><a href="pages/articles/islam-and-evolution-did-life-find-a-way.php">Islam &amp; Evolution: Did Life
 						Find A Way?</a></dd>
