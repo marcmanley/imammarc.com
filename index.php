@@ -11,6 +11,9 @@
 
 <?php include('meta-2.php'); ?>
 
+<title>Imam Marc Manley</title>
+</head>
+
 <body>
 	<div class="color-band"></div>
 	<div id="wrapper">

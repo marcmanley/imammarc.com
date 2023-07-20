@@ -10,5 +10,4 @@
 	<script src='https://imammarc.com/scripts/respond.min.js'></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script src="fancybox/jquery.fancybox.js?v=2.0.6"></script>
-	<title>Imam Marc Manley</title>
-</head>
+	
