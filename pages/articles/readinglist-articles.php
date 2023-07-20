@@ -24,10 +24,6 @@
 			<header class="header">
 			<h1>Reading List 2020 (Articles)</h1>
 			<p style="margin-top: 20px;">In addition to my <a href="readinglist.html">book reading list</a>, I also have a big (mostly electronic) stack of articles that I'm also reading</p>
-				<dl>
-					<dt></dt>
-					<dd><a href="/">Home</a></dd>
-				</dl>
 			</header>
 
 			<div class="qualifications">

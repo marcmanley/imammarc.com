@@ -58,13 +58,6 @@
 			<p style="margin-top: 20px;">Believe it or not, this list isn't complete. But these are most of the books I'm
 				referencing for either personal or professional use. I use these books to teach from, to be inspired from, and
 				to just gain more knowledge as well as to keep up the practice of reading in general.</p>
-			<!-- <p>You can also check out my list of <a href="readinglist-articles.html">articles</a> that I'm currently reading.
-			</p> -->
-			
-			<div class="home">
-				<span class="home"><a href="https://imammarc.com">Home</a></span>
-			</div>
-
 		</header>
 
 		<div class="qualifications">
