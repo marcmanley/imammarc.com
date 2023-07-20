@@ -1,49 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<!-- <meta name="viewport" content="minimumscale=1.0, maximum-scale=1.0" /> -->
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta name="keywords" content="islam, muhammad, deen, marc manley, imam, middle ground">
-		<meta name="description" content="Imam and Religious Director">
-		<meta name="author" content="Marc Manley">
-		<meta name="format-detection" content="telephone=no">
+<?php include('../../header-main.php'); ?>
+
+<?php include('../../meta-1.php'); ?>
+
+<?php // begin reading list articles ?>
 	
-		<!-- Social Media Thumbnail -->
-		<meta property="og:title" content="Imam Marc Manley">
-		<meta property="og:description" content="Imam Marc Manley's Official Website">
-		<meta property="og:image" content="https://imammarc.com/media/imgs/imammarcmanley-website-social-media-thumbnial.png">
-		<meta property="og:url" content="https://imammarc.com">
-		<meta name="twitter:card" content="summary_large_image">
-		
-	<link rel="stylesheet" href="css/style.css?ver=1" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/color-scheme.css?ver=1" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/print.css?ver=1" type="text/css" media="print">
-	<link href="https://fonts.googleapis.com/css?family=Days+One" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Andada" rel="stylesheet" type="text/css">
-	<!-- Adobe fonts -->
-	<link rel="stylesheet" href="https://use.typekit.net/lpf4yky.css?ver=1">
-	<link rel="icon" href="media/imgs/favicon.png">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
-	<script src='scripts/respond.min.js'></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script src="fancybox/jquery.fancybox.js?v=2.0.6"></script>
-		<title>Imam Marc Manley &mdash; Reading List 2020 (Articles)</title>
+<!-- Social Media Thumbnail -->
+<meta property="og:title" content="Imam Marc Manley">
+<meta property="og:description" content="Imam Marc Manley's Official Website">
+<meta property="og:image" content="https://imammarc.com/media/imgs/imammarcmanley-website-social-media-thumbnial.png">
+<meta property="og:url" content="https://imammarc.com">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:type" content="website">
+
+<?php include('../../meta-2.php'); ?>
+
+<title>Imam Marc Manley &mdash; Reading List 2020 (Articles)</title>
+
 	</head>
-<body>
-	<div class="color-band"></div>
-	<div id="wrapper">
-		<header class="header">
+
+	<body>
+		<div class="color-band"></div>
+		<div id="wrapper">
+			<header class="header">
 			<h1>Reading List 2020 (Articles)</h1>
 			<p style="margin-top: 20px;">In addition to my <a href="readinglist.html">book reading list</a>, I also have a big (mostly electronic) stack of articles that I'm also reading</p>
 				<dl>
 					<dt></dt>
 					<dd><a href="/">Home</a></dd>
 				</dl>
-		</header>
+			</header>
 
-		<div class="qualifications">
-			<ul>
+			<div class="qualifications">
+				<ul>
 			<li>Abd-Allah - Innovation and Creativity in Islam</li>
 			<li>Abd-Allah - Islam and the Cultural Imperative</li>
 			<li>Abd-Allah - Living Islam with Purpose</li>
@@ -461,172 +449,9 @@
 			</ul>
 		</div>
 
-		<!-- technical skills section -->
-
-		<!-- 
-			
-			<div class="header-box">
-			
-			<h1>Summary of Technical Skills</h1>
-			
-			<p style="margin-top: 15px;">I am able to bring a wide array of skills and experiences to any project, no matter the size. I have an extensive background in photography (digital and analog), video capture and editing, and lend my background in graphic design in creating engaging and provocative social media campaigns and engagements, from shooting still images or video, producing music to go along with them or providing voice overs for your campaigns.</p>
-		</div>
-
-			<h2 style="margin-top: 10px;">Web Development Skills</h2>
-			<p class="job-skills-tags">
-				<span>HTML5</span>
-				<span>CSS3</span>
-				<span>Responsive Web Design (RWD)</span>
-				<span>jQuery Mobile</span>
-				<span>JavaScript</span>
-				<span>PHP</span>
-				<span>MySQL</span>
-				<span>DOM Scripting</span>
-				<span>W3C Standards</span>
-				<span>Microformats</span>
-				<span>Python</span>
-				<span>WordPress Development</span>
-			</p>
-			<h2>IT Skills</h2>
-			<p class="job-skills-tags"><span>Android and Mac technologies development experience</span>
-				<span>ESRI-certified ArcGIS Desktop user</span>
-				<span>Software Development Lifecycle (SDLC)</span>
-				<span>Advanced Technical Writing experience – Section 508 Compliance</span>
-				<span>Quality Assurance (QA)</span><span>Technical Project Management</span>
-				<span>Equitrac Print Manager</span>
-				<span>Large-format printing/plotting</span>
-				<span>User Experience (UX) methodologies</span>
-				<span>Microsoft Office</span>
-				<span>Networking and WAN/WLAN/LAN services</span>
-				<span>Windows (through 8.x)</span>
-				<span>Mac OS X (through 10.9)</span>
-				<span>VMWare Workstation</span>
-			</p>
-		<h2>Digital Media Skills</h2>
-			<p class="job-skills-tags">
-				<span>Adobe Creative Cloud</span>
-				<span>Advanced Photography Skills // capture and editing //</span>
-				<span>Advanced music production Skills // live capture, studio, editing, and creation //</span>
-				<span>Social Media Campaigns // creating still and video content for all social media platforms //</span>
-				<span>Podcast Production</span>
-				<span>Live Streaming</span>
-				<span>Digital Marketing</span>
-				<span>Voice Overs</span>
-
-			</p>
-			
-		-->
-
-		<!-- work experience section -->
-		
-		<!-- 
-
-		<div class="header-box">
-			<h1>Professional Experience</h1>
-		</div>
-
-		<div class="job">
-			<h2>IT &amp; Web Consultancy</h2>
-			<p>Since 2000 I have worked as a web development consultant for the following clients: University of Southern California, Duke University, University of Pennsylvania, University of Minnesota Press, Zaytuna College, University of Massachusetts Lowell, SLAM Magazine, Isthmus Magazine and Ibanez Guitars amongst others.</p>
-			<p><strong>2000 - Present</strong>.</p>
-
-				<h4>Job Skills</h4>
-					<p class="job-skills-tags"><span>project management</span><span>web development</span><span>html5</span><span>css3</span><span>php</span><span>javascript</span><span>Python</span><span>WordPress development</span><span>Responsive Web Design</span><span>Adobe CS</span><span>documentation</span><span>iOS development</span><span>Android development</span><span>ARC GIS</span><span>spatial data</span><span>cartography</span><span>photography</span></p>
-		</div>
-
-		<div class="job">
-			<h2>University of Pennsylvania School of Design</h2>
-			<h3>Instructional Technology</h3>
-				<p>The School of Design is a large, multi-use environment including undergraduate and graduate students, with a student population of over 2,000. My day-to-day operations include managing all hardware and software for public labs, image creation and deployment, printing, networking and helpdesk support. I manage over 20 employees who work across multiple locations on campus. Additionally, I maintain school's website and social media outlets for communicating with the student body.</p>
-				<p>Throughout the year I conduct workshops, training sessions and webinars for incoming students, faculty
-					and staff.</p>
-				<p><strong>2006 – 2014</strong>. Philadelphia, PA.</p>
-				<dl>
-					<dt>Selected Accomplishments</dt>
-					<dd>Project managed the schools transition from static HTML pages to a dynamic HTML website. This involved the
-						hiring and managing of outside vendors.</dd>
-					<dd>Revamped large-format printing and plotting by streamlining the process, print billing, and color 							calibration. The system is now able to accommodate students plotting on a variety of media types.						</dd>
-					<dd>Developed and installed a multi-media system for monitoring print jobs on large-format
-						HD screens with real-time feed of print queues.</dd>
-					<dd>Launched the school's first-ever social media campaign. Revitalized communication to the student body.</dd>
-				</dl>
-				<h4>Job Skills</h4>
-			<p class="job-skills-tags"><span>project management</span> <span>lab management</span> <span>hardware procurement</span> <span>server administration</span> <span>Windows Server 2008</span> <span>active directory</span> <span>microsoft exchange</span> <span>Zimbra</span> <span>Microsoft Mail 365</span> <span>wireless support</span> <span>symantec endpoint antivirus</span> <span>symantec ghost administration</span> <span>software licensing</span> <span>desktop support</span> <span>A/V support</span> <span>OS X (Maverics)</span> <span>Windows (Win8)</span> <span>documentation</span> <span>web development</span> <span>html</span> <span>css</span> <span>php</span> <span>javascript</span> <span>Responsive Web Design</span> <span>Arc GIS (certified)</span> <span>Adobe CS</span> <span>Auto CAD</span> <span>mobile device support</span> <span>iOS</span> <span>Android</span> <span>Blackberry</span> <span>print server administration</span> <span>large-format plotting</span> <span>instructional technology</span> <span>workshop &amp; training seminars</span> <span>software "boot camps"</span> <span>new student technology orientations</span> <span>Blackboard</span> <span>Coursera</span> <span>social media</span></p>
-		</div>
-
-		<div class="job">
-			<h2>Moore College of Art &amp; Design</h2>
-			<h3>Web Design Instructor</h3>
-				<p>Founded in 1848, Moore is the first and only visual arts college for women in the United States. I created a custom certificate program in front-end web development. Students were taken through the fundamentals of HTML and CSS, with the goal in mind of training them to work as competent, entry-level web developers.</p>
-				<p><strong>2008 – 2010</strong>. Philadelphia, PA.</p>
-				<dl>
-					<dt>Selected Accomplishments</dt>
-					<dd>Developed the first-ever web certificate program for Moore College.</dd>
-					<dd>Grounded students in web fundamentals by hand-coding.</dd>
-					<dd>Course capstone featured a fully-functional website based off of student's own designs.</dd>
-					<dd>Provided professional support in assisting students find entry-level web development jobs.</dd>
-				</dl>
-				<h4>Job Skills</h4>
-			<p class="job-skills-tags"><span>project management</span> <span>syllabus planning</span> <span>teaching</span> <span>web development</span> <span>html</span> <span>css</span> <span>php</span> <span>javascript</span> <span>Adobe CS</span> <span>mobile device support</span> <span>instructional technology</span> <span>workshop &amp; training seminars</span> <span>software "boot camps"</span> <span>new student technology orientations</span></p>
-		</div>
-
-		<div class="job">
-			<h2>Morgan Lewis &amp; Bockius</h2>
-			<h3>Technical Liaison</h3>
-			<p>A large, multi-national legal corporation, Morgan Lewis provides legal services to global Fortune 100/500 companies. My primary role here was to provide tech support to partners and attorneys in the Beijing, Chicago, Dubai, Frankfurt, Los Angeles, New York, Paris, Philadelphia, San Francisco, and Tokyo offices.</p>
-			<p>Attorneys would typically call in for remote support for advanced Microsoft Word and Excel support. Complex macros and formatting were required for a variety of legal documents. Support was provided via Citrix web client, phone, and email support. This was a fast-paced, high-intensity position which demanded very quick turnaround times and solutions.</p>
-			<p><strong>2005 – 2006</strong>. Philadelphia, PA.</p>
-			<h4>Job Skills</h4>
-			<p class="job-skills-tags"><span>server administration</span> <span>Windows Server 2003</span> <span>active directory</span> <span>microsoft exchange</span> <span>VPN's</span> <span>network troubleshooting</span> <span>wireless network support</span> <span>symantec endpoint antivirus</span> <span>symantec ghost administration</span> <span>desktop support</span> <span>remote support</span> <span>Citrix</span> <span>OS X</span> <span>Windows (XP/Vista)</span> <span>Adobe CS</span> <span>detailed MS Office support</span> <span>Corel WordPerfect</span> <span>Carpe Diem billing software</span> <span>mobile device support</span> <span>iOS</span> <span>Blackberry</span></p>
-		</div>
-
-		<div class="job">
-			<h2>Edgewood College</h2>
-			<h3>Technical Specialist</h3>
-			<p>Desktop support responsibilies for over 2,000 machines. A/V support. Website re-design for college website to support accessibility and web standards. In-class and in-person support for Mac and Windows. Primary lead on college’s switch from Classic (OS 9) to OS X.</p>
-				<p><strong>2002 - 2004</strong>. Madison, WI.</p>
-
-				<h4>Job Skills</h4>
-			<p class="job-skills-tags"><span>project management</span> <span>lab management</span> <span>server administration</span> <span>Windows Server 2000</span> <span>active directory</span> <span>microsoft exchange</span> <span>wireless network support</span> <span>desktop support</span> <span>A/V Support</span> <span>OS 9</span> <span>OS X</span> <span>Windows (2000 &amp; XP)</span> <span>web development</span> <span>html</span> <span>css</span> <span>Adobe CS</span> <span>print server administration</span></p>
-		</div>
-			
-		-->
-
-		<!-- technical skills section -->
-
-		<!-- 
-			
-		<div class="header-box">
-			
-			<h1>Education, Certificates, and Professional Skills</h1>
-				
-				<dl>
-					<dt>Education</dt>
-					<dd>Temple University: Bachelors of English Literature, 2012.</dd>
-					<dt>Certifications</dt>
-					<dd>ESRI ArcGIS Desktop certification, 2014.</dd>
-					<dd>Treehouse certificate in Web Development, 2014.</dd>
-					<dd>Thinkful certificate in Python, 2015.</dd>
-					<dd>W3C certificate in HTML5, 2015.</dd>
-
-					<dt>Professional Skills</dt>
-					<dd>Strong oral and written communication skills.</dd>
-					<dd>Language skills:</dd>
-					<dd class="indent">Spanish.</dd>
-					<dd class="indent">Arabic.</dd>
-					<dd class="indent">Japanese.</dd>
-					<dd>Organized, self-motivated, punctual.</dd>
-				</dl>
-		</div>
-			
-		-->
-
-		<div id="footer">
-			<footer>&copy; 2023 Marc Manley &#8226; ARR &#8226; This site is Valid HTML5</footer>
-		</div>
+		<?php include('../../footer-home.php'); ?>
 
 	</div>
-	<!-- Updated 11/6/2019 -->
 
 	<script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
