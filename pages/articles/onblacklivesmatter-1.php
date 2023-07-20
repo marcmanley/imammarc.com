@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php include('../../header-main.php'); ?>
 
-<head>
-  <meta charset="utf-8">
-	<!-- <meta name="viewport" content="minimumscale=1.0, maximum-scale=1.0" /> -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="keywords" content="islam, muhammad, deen, marc manley, imam, middle ground">
-	<meta name="description" content="Imam and Religious Director">
-	<meta name="author" content="Marc Manley">
-	<meta name="format-detection" content="telephone=no">
+<?php include('../../meta-1.php'); ?>
+
+<?php // begin on black lives matter ?>
 
 	<!-- Social Media Thumbnail -->
 	<meta property="og:title" content="Imam Marc Manley">
@@ -16,19 +10,11 @@
 	<meta property="og:image" content="https://imammarc.com/media/imgs/imammarcmanley-website-social-media-thumbnial.png">
 	<meta property="og:url" content="https://imammarc.com">
 	<meta name="twitter:card" content="summary_large_image">
+  <meta property="og:type" content="website">
   
-	<link rel="stylesheet" href="../../css/style.css?ver=1" type="text/css" media="screen">
-	<link rel="stylesheet" href="../../css/color-scheme.css?ver=1" type="text/css" media="screen">
-	<link rel="stylesheet" href="../../css/print.css?ver=1" type="text/css" media="print">
-	<link href="https://fonts.googleapis.com/css?family=Days+One" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Andada" rel="stylesheet" type="text/css">
-  <!-- Adobe fonts -->
-	<link rel="stylesheet" href="https://use.typekit.net/lpf4yky.css?ver=1">
-	<link rel="icon" href="../../media/imgs/favicon.png">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
-	<script src='scripts/respond.min.js'></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script src="fancybox/jquery.fancybox.js?v=2.0.6"></script>
+	<?php include('../../meta-2.php'); ?>
+
+  <title>Black Lives Matter &amp; Systemic Racism</title>
   
   <style>
   .pages {
@@ -61,7 +47,7 @@
     display: inline-block;
 }
   </style>
-  <title>Black Lives Matter &amp; Systemic Racism</title>
+  
 </head>
 
 <body>
@@ -108,23 +94,9 @@
 
       </article>
       
-      <div class="home">
-        <span class="home"><a href="https://imammarc.com">Home</a></span>
-      </div>
-
-
-    </div>
-
-    <footer id="main-footer">
-      <p>&copy; 2023 Marc Manley &#8226; ARR &#8226; This site is Valid HTML5</p>
-    </footer>
-
-    <!-- <div id="footer">
-      <footer>&copy; 2020 Marc Manley &#8226; ARR &#8226; This site is Valid HTML5</footer>
-    </div> -->
+      <?php include('../../footer-home.php'); ?>
 
   </div>
-  <!-- Updated 11/6/2019 -->
 
   <script>
     (function (i, s, o, g, r, a, m) {

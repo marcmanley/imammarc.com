@@ -14,17 +14,17 @@
 
 				<!-- other links -->
 				
-				<dd><a href="pages/articles/performative-islam.html">Performative Islam</a></dd>
+				<dd><a href="pages/articles/performative-islam.php">Performative Islam</a></dd>
 				<dd><a href="pages/non-articles/ikhlas-salaam-islamic-center-july-2023.php">Ikhlas Retreat</a></dd>
 				<dd><a href="pages/articles/modernist-muslims.php">The Modernist Muslim</a></dd>
 				<dd><a href="pages/non-articles/fit-at-50.php">Fit At 50</a></dd>
 				<dd><a href="pages/articles/islam-and-evolution-did-life-find-a-way.php">Islam &amp; Evolution: Did Life
 						Find A Way?</a></dd>
-				<dd><a href="pages/articles/race-and-secularism-in-america-1.html">Race &amp; Secularism in America</a>
+				<dd><a href="pages/articles/race-and-secularism-in-america-1.php">Race &amp; Secularism in America</a>
 				</dd>
-				<dd><a href="pages/articles/on-liberalism-modern-age-winter-2020.html">On Liberalism &mdash; Modern Age
+				<dd><a href="pages/articles/on-liberalism-modern-age-winter-2020.php">On Liberalism &mdash; Modern Age
 						Winter 2020</a></dd>
-				<dd><a href="pages/articles/readinglist.html">Reading List 2020</a></dd>
-				<dd><a href="pages/articles/onblacklivesmatter-1.html">Black Lives Matter &amp; Systemic Racism</a></dd>
+				<dd><a href="pages/articles/readinglist.php">Reading List 2020</a></dd>
+				<dd><a href="pages/articles/onblacklivesmatter-1.php">Black Lives Matter &amp; Systemic Racism</a></dd>
 			</dl>
 		</header>
