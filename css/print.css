@@ -1,0 +1,10 @@
+img { 
+	display: none; 
+}
+
+span { 
+	margin: 0 5px 10px 0;
+	padding: 12px; 
+	font-size: 10pt;
+	text-transform: uppercase;
+}

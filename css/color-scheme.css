@@ -1,0 +1,51 @@
+/* header | background | type */
+
+body { 
+	background: #fff; 
+	color: #333;
+}
+
+h1, h2 { 
+	color: #173040; 
+}
+
+a { 
+	font-size: inherit; 
+	color: #2F5373; 
+}
+
+a:hover { 
+	color: #F24405; 
+}
+
+.color-band { 
+	height: 5px; 
+	background: #F24405;
+}
+
+/* dt { 
+	color: rgb(251, 2, 22); 
+} */
+
+.arabic {
+	direction: rtl;  /* Right to Left */
+	font-size: 2em; 
+	/* old style font-family: 'Thabit', 'Scheherazade', Arial; */
+	font-family: 'Droid Arabic Naskh', Arial; 
+	margin: 0 0 25px 0;
+	padding: 15px 30px 15px 30px; 
+	background: #575757;
+	border-bottom: 5px solid #000;
+}
+
+.arabic-normal {
+	direction: rtl;  /* Right to Left */
+	font-size: 1.8em; 
+	/* old style font-family: 'Thabit', 'Scheherazade', Arial; */
+	font-family: 'Droid Arabic Naskh', Arial; 
+	margin: 0 0 25px 0; 
+}
+
+.arabic-header { 
+	direction: rtl; 
+}
