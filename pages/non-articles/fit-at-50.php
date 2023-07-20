@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
+<?php include('../../header-main.php'); ?>
 
 <?php include('../../meta-1.php'); ?>
 
@@ -64,7 +61,7 @@
     <div class="main-content">
       
       <p class="pages date">June 2023</p>
-      <p class="pages"><img class="qualifications-img" src="../../media/imgs/fit-at-50-one-year-update.png" alt="YouTube thumbnail for the video: Fifty and Fit: Year One Update | Lessons & Transformations"> In 2021, I started a new fitness endeavor. I began with intermittent fasting. By 2022, I added a new initiative to the mix, at 49, which I called <strong>Fit at Fifty</strong>, in hopes of being in better health by 50. Now that I’ve turned 50 here are some reflections and what worked and where I’m headed now.</p>
+      <p class="pages"><img class="qualifications-img" src="../../media/imgs/fit-at-50-one-year-update.png" alt="YouTube thumbnail for the video: Fifty and Fit: Year One Update | Lessons & Transformations"> In 2021, I started a new fitness endeavor. I began with intermittent fasting. By 2022, I added a new initiative to the mix, at 49, which I called <strong>Fit at 50</strong>, in hopes of being in better health by 50. Now that I’ve turned 50 here are some reflections and what worked and where I’m headed now.</p>
 
 		<div class="embed-responsive embed-responsive-16by9">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl8g6a6tST4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -84,13 +81,7 @@
       <iframe width="560" height="315" src="https://www.youtube.com/embed/kdYcxOhQAHY" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
-    <div class="home">
-      <span class="home"><a href="https://imammarc.com/index.php">Home</a></span>
-    </div>
-
-    </div>
-
-    <?php include('../../footer-universal.php'); ?>
+    <?php include('../../footer-home.php'); ?>
 
   </div>
 
