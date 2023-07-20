@@ -18,7 +18,7 @@
 				<dd><a href="pages/non-articles/ikhlas-salaam-islamic-center-july-2023.php">Ikhlas Retreat</a></dd>
 				<dd><a href="pages/articles/modernist-muslims.html">The Modernist Muslim</a></dd>
 				<dd><a href="pages/non-articles/fit-at-50.php">Fit At 50</a></dd>
-				<dd><a href="pages/articles/islam-and-evolution-did-life-find-a-way.html">Islam &amp; Evolution: Did Life
+				<dd><a href="pages/articles/islam-and-evolution-did-life-find-a-way.php">Islam &amp; Evolution: Did Life
 						Find A Way?</a></dd>
 				<dd><a href="pages/articles/race-and-secularism-in-america-1.html">Race &amp; Secularism in America</a>
 				</dd>
