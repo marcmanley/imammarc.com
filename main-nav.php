@@ -4,12 +4,17 @@
 			<h2>Imam &amp; Religious Director</h2>
 			<dl>
 				<dt></dt>
+
 				<dd class="phone"><a href="tel:+19094519770">909-451-9770</a></dd>
+
 				<dd class="email"><a href="mailto:imammarcmanley@gmail.com">imammarcmanley@gmail.com</a></dd>
-				<!-- <dd class="me2"><a href="http://www.marcmanley.com">Also Me</a></dd> -->
+
 				<dd class="middleground"><a href="http://muslim.center">Middle Ground</a></dd>
+
 				<dd class="link-bio"><a href="https://lnk.bio/imammarcmanley">Link.Bio</a></dd>
+
 				<dd class="twitter"><a href="https://twitter.com/imam_marc">Twitter</a></dd>
+
 				<dd class="thegram"><a href="https://www.instagram.com/sonofpierre/">Instagram</a></dd>
 
 				<!-- other links -->

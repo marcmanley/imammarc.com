@@ -318,7 +318,7 @@ img.qualifications-img {
 	margin: 0 0 15px 0;
 }
 
-dd.phone, dd.address, dd.email, dd.git, dd.thegram, dd.twitter, dd.middleground, dd.apple, dd.me2, dd.readinglist, dd.link-bio {
+dd.phone, dd.fb, dd.address, dd.email, dd.git, dd.thegram, dd.twitter, dd.middleground, dd.apple, dd.me2, dd.readinglist, dd.link-bio {
 	padding: 0 0 0 25px;
 }
 
@@ -367,11 +367,9 @@ dd.link-bio {
 	background: url(../media/imgs/link.bio.png) no-repeat left;
 }
 
-/* iframe.soundcloud {
-	width: 600px;
-	height: 450px;
-	overflow: auto;
-} */
+dd.fb { 
+	background: url(../media/imgs/facebook.png) no-repeat left;
+}
 
 /* Media Queries */
 
@@ -452,7 +450,7 @@ header nav a {
 } */
 
 .saws {
-	font-style: none;
+	font-style: normal;
 }
 
 .youtube {
