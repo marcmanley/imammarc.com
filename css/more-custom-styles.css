@@ -1,0 +1,98 @@
+/* more custom styles */
+
+.arabic,
+.arabic-header,
+.arabic-normal {
+  direction: rtl;
+  font-family: "adobe-naskh", serif;
+}
+
+.arabic {
+  font-size: 2em;
+  /* old style font-family: 'Thabit', 'Scheherazade', Arial; */
+  /* font-family: "Droid Arabic Naskh", Arial; */
+  margin: 0 0 25px 0;
+  padding: 15px 30px 15px 30px;
+  background: #575757;
+  border-bottom: 5px solid #000;
+}
+
+.arabic-normal {
+  font-size: 1.8em;
+  /* old style font-family: 'Thabit', 'Scheherazade', Arial; */
+  /* font-family: "Droid Arabic Naskh", Arial; */
+  margin: 0 0 25px 0;
+  text-align: right;
+}
+
+/* Clementine quote */
+
+blockquote.clementine-quote {
+  font-family: "quara-web", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding: 15px 50px 15px 50px;
+}
+
+.drop-cap::first-letter {
+  -webkit-initial-letter: 4;
+  initial-letter: 4;
+  color: #f24405;
+  font-weight: bold;
+  margin-right: 0.75em;
+}
+
+.date {
+  color: #fff;
+  background-color: #000;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 0;
+  padding: 10px 15px 5px 15px;
+}
+
+.pages {
+  margin-top: 15px;
+}
+
+.home a,
+.home a:link,
+.home a:visited {
+  text-decoration: none;
+  color: #fff;
+  background-color: #438cca;
+  font-weight: 600;
+  padding: 5px;
+  margin-top: 10px;
+  text-transform: uppercase;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.saws {
+  font-style: normal;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: 480px) {
+  /* Clementine quote */
+
+  blockquote.clementine-quote {
+    font-family: "quara-web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 7px 15px 7px 15px;
+  }
+
+  .pages {
+    margin-top: 25px;
+  }
+
+  .date {
+    color: #fff;
+    background-color: #000;
+    border-radius: 5px;
+    display: inline-block;
+  }
+}
