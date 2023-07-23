@@ -4,15 +4,13 @@
 .arabic-header,
 .arabic-normal {
   direction: rtl;
-  font-family: "adobe-naskh", serif;
+  font-family: "nassim-arabic-pro", serif;
   line-height: 2em;
-  unicode-bidi: bidi-override !important;
+  /* unicode-bidi: bidi-override !important; */
 }
 
 .arabic {
   font-size: 2em;
-  /* old style font-family: 'Thabit', 'Scheherazade', Arial; */
-  /* font-family: "Droid Arabic Naskh", Arial; */
   margin: 0 0 25px 0;
   padding: 15px 30px 15px 30px;
   background: #575757;
@@ -21,27 +19,31 @@
 
 .arabic-normal {
   font-size: 1.8em;
-  /* old style font-family: 'Thabit', 'Scheherazade', Arial; */
-  /* font-family: "Droid Arabic Naskh", Arial; */
+  font-weight: 400;
+  font-style: normal;
   margin: 0 0 0 0;
   padding: 5px 0;
   text-align: right;
 }
 
+/* old style font-family: 'Thabit', 'Scheherazade', Arial; */
+/* font-family: "Droid Arabic Naskh", Arial; */
+
 /* Clementine quote */
 
 blockquote.clementine-quote {
-  font-family: "quara-web", sans-serif;
+  font-family: "nassim-arabic-pro", serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  line-break: 1;
   padding: 15px 25px 15px 25px;
   width: 95%;
   text-align: justify;
 }
 
 .drop-cap::first-letter {
-  font-family: "quara-web", sans-serif;
+  font-family: "nassim-arabic-pro", sans-serif;
   -webkit-initial-letter: 4;
   initial-letter: 4;
   color: #f24405;
@@ -91,7 +93,7 @@ blockquote.clementine-quote {
   /* Clementine quote */
 
   blockquote.clementine-quote {
-    font-family: "quara-web", sans-serif;
+    font-family: "nassim-arabic-pro", sans-serif;
     font-weight: 400;
     font-style: normal;
     padding: 7px 15px 7px 15px;

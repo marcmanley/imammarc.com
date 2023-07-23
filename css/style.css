@@ -11,11 +11,9 @@
 }
 
 body {
-  font-family: "Bebas", Arial;
-  height: 100%;
-  margin: 0;
-  width: 100%;
-  color: #333;
+  font-family: nassim-latin, sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h1,
@@ -81,9 +79,6 @@ li {
 }
 
 blockquote {
-  /* font-family: 'Andada', serif;
-	font-style: italic; */
-  font-family: "forma-djr-text", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 1.4em;
@@ -94,23 +89,6 @@ iframe {
   border: none;
 }
 
-/* footer {
-	margin: 20px 0 0 0;
-	padding: 18px;
-	font-family: 'Days One', sans-serif;
-	text-transform: uppercase;
-	font-size: 1em;
-	display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-	color: #fff;
-	background: #F24405;
-	border-radius: 5px;
-	
-} */
-
 #main-footer {
   font-family: "Days One", sans-serif;
   text-transform: uppercase;
@@ -118,8 +96,10 @@ iframe {
   text-align: center;
   background: #444;
   color: #fff;
-  margin: 1rem 0 2rem 0;
-  padding: 1rem;
+  margin: 15px 0 0 0;
+  padding: 10px 0 0 0;
+  /* margin: 1rem 0 2rem 0;
+  padding: 1rem 1rem 0.5rem 1rem; */
   color: #fff;
   background: #f24405;
   border-radius: 5px;
@@ -179,8 +159,6 @@ p strong {
 }
 
 .author-intro p {
-  font-family: nassim-latin, sans-serif;
-  font-weight: 400;
   padding: 1rem;
   font-size: 1.3rem;
   text-align: justify;

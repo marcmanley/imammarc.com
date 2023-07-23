@@ -38,7 +38,7 @@
     <blockquote class="clementine-quote">“The world is changed. I feel it in the water. I feel it in the earth. I smell it in the air.”</blockquote>
     <p class="pages">And of course there is the hadith of the Prophet ‎ﷺ in which he states,</p>
     <blockquote class="arabic-normal">يوشك أن يكون خير مال المسلم غنم يتبع بها شعف الجبال ومواضع القطر يفر بدينه من الفتن - صحيح البخاري الحديث التاسع عشر من كتاب الإيمان</blockquote>
-    <blockquote class="clementine-quote">"A time will soon come when the best property of a Muslim will be sheep which he will take on the top of mountains and the places of rainfall, fleeing with his religion from afflictions and calamities." &mdash; <strong>Sahih al-Bukhari, hadith no. 19 from the Book of Faith</strong></blockquote>
+    <blockquote class="clementine-quote">"A time will soon come when the best property of a Muslim will be sheep which he will take on the top of mountains and the places of rainfall, fleeing with his religion from afflictions and calamities." &mdash; Sahih al-Bukhari Hadith no. 19 from the Book of Faith.</blockquote>
     <p class="pages">And so I suppose I, we, will just have to content ourselves to dream a bit longer.</p>
     <p class="pages">If you haven't already done so, check out <a href="https://www.youtube.com/@kirstendirksen">Kirsten Dirksen's YouTube page</a> as she has a number of great and inspiring videos about people pursuing that "Prophetic dream".</p>
     <div class="embed-responsive embed-responsive-16by9">
