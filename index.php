@@ -1,3 +1,11 @@
+<?php // Document Tree ?> 
+<?php // header-main.php ?>
+<?php // meta-1.php ?>
+<?php // meta-2.php ?>
+<?php // main-nav.php ?>
+<?php // index.php ?>
+<?php // footer-universal.php or footer-home.php ?>
+
 <?php include('header-main.php'); ?>
 
 <?php include('meta-1.php'); ?>
@@ -24,19 +32,7 @@
 
 	<p style="margin-top: 15px;">For more videos on the retreat <a href="pages/non-articles/ikhlas-salaam-islamic-center-july-2023.php">click here.</a></p>
 
-		<!-- Future spot for an audio player 
-		<div class="audio-player">
-			<div class="audio-player-thumbnail">
-				<img src="media/imgs/middle-ground-podcast-thumbnail-square.png" alt="MG">
-			</div>
-			<div class="controls">
-				<audio controls>
-					<source src="media/audio-files/2023-7-9-ikhlas.mp3" type="audio/mpeg">
-					Your browser does not support this element.
-				</audio>
-			</div>
-		</div>
-		-->
+	<?php // future spot for audio player ?>
 
 </div>
 
