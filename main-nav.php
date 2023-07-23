@@ -19,6 +19,7 @@
 
 				<!-- other links -->
 				
+				<dd><a href="pages/articles/dreaming-of-a-prophetic-life.php">Dreaming of a Prophetic Life</a></dd>
 				<dd><a href="pages/articles/performative-islam.php">Performative Islam</a></dd>
 				<dd><a href="pages/non-articles/ikhlas-salaam-islamic-center-july-2023.php">Ikhlas Retreat</a></dd>
 				<dd><a href="pages/articles/modernist-muslims.php">The Modernist Muslim</a></dd>

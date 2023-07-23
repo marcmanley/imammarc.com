@@ -5,6 +5,8 @@
 .arabic-normal {
   direction: rtl;
   font-family: "adobe-naskh", serif;
+  line-height: 2em;
+  unicode-bidi: bidi-override !important;
 }
 
 .arabic {
@@ -21,7 +23,8 @@
   font-size: 1.8em;
   /* old style font-family: 'Thabit', 'Scheherazade', Arial; */
   /* font-family: "Droid Arabic Naskh", Arial; */
-  margin: 0 0 25px 0;
+  margin: 0 0 0 0;
+  padding: 5px 0;
   text-align: right;
 }
 
@@ -31,10 +34,14 @@ blockquote.clementine-quote {
   font-family: "quara-web", sans-serif;
   font-weight: 400;
   font-style: normal;
-  padding: 15px 50px 15px 50px;
+  font-size: 1.2rem;
+  padding: 15px 25px 15px 25px;
+  width: 95%;
+  text-align: justify;
 }
 
 .drop-cap::first-letter {
+  font-family: "quara-web", sans-serif;
   -webkit-initial-letter: 4;
   initial-letter: 4;
   color: #f24405;
@@ -53,6 +60,11 @@ blockquote.clementine-quote {
 
 .pages {
   margin-top: 15px;
+  clear: both;
+}
+
+.home {
+  margin: 15px 0 0 0;
 }
 
 .home a,
@@ -83,6 +95,8 @@ blockquote.clementine-quote {
     font-weight: 400;
     font-style: normal;
     padding: 7px 15px 7px 15px;
+    float: none;
+    width: auto;
   }
 
   .pages {
