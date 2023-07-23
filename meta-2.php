@@ -13,4 +13,18 @@
 <script src='https://imammarc.com/scripts/respond.min.js'></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script src="fancybox/jquery.fancybox.js?v=2.0.6"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Imam Marc Manley",
+  "url": "https://imammarc.com",
+  "sameAs": [
+    "https://www.facebook.com/imammarcmanley",
+    "https://twitter.com/imam_marc",
+    "https://www.instagram.com/sonofpierre/"
+  ]
+}
+</script>
+
 	
