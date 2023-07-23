@@ -1,4 +1,5 @@
 <!-- begin meta-2.php -->
+<link rel="canonical" href="https://imammarc.com">
 <link rel="stylesheet" href="https://imammarc.com/css/style.css?ver=1" type="text/css" media="screen">
 <link rel="stylesheet" href="https://imammarc.com/css/color-scheme.css?ver=1" type="text/css" media="screen">
 <link rel="stylesheet" href="https://imammarc.com/css/more-custom-styles.css?v=1" type="text/css" media="screen">
