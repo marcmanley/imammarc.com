@@ -1,4 +1,5 @@
-<!-- begin meta-2.php -->
+<?php // begin meta-2.php ?>
+
 <link rel="canonical" href="https://imammarc.com">
 <link rel="stylesheet" href="https://imammarc.com/css/style.css?ver=1" type="text/css" media="screen">
 <link rel="stylesheet" href="https://imammarc.com/css/color-scheme.css?ver=1" type="text/css" media="screen">
@@ -6,7 +7,7 @@
 <link rel="stylesheet" href="https://imammarc.com/css/print.css?ver=1" type="text/css" media="print">
 <link href="https://fonts.googleapis.com/css?family=Days+One" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Andada" rel="stylesheet" type="text/css">
-	<!-- Adobe fonts -->
+	<?php // Adobe/Web Fonts ?>
 <link rel="stylesheet" href="https://use.typekit.net/lpf4yky.css?v=1">
 <link rel="icon" href="https://imammarc.com/media/imgs/favicon.png">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">

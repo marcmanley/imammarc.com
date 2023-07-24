@@ -10,7 +10,8 @@
 
 <?php include('meta-1.php'); ?>
 
-<!-- Social Media Thumbnail -->
+<?php // Social Media Thumbnail ?>
+
 <meta property="og:title" content="Imam Marc Manley">
 	<meta property="og:description" content="Imam Marc Manley's Official Website">
 	<meta property="og:image" content="https://imammarc.com/media/imgs/imammarcmanley-website-social-media-thumbnial.png">
@@ -53,7 +54,8 @@
 		</div>
 </div>
 
-<!-- Middle Ground Calendar -->
+<?php // Middle Ground Calendar ?>
+
 <div class="qualifications">
 	<div class="embed-responsive embed-responsive-16by9">
 		<iframe src="https://calendar.google.com/calendar/embed?height=420&wkst=2&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showNav=1&showPrint=0&showTabs=0&showCalendars=0&title=Middle%20Ground%20Calendar&mode=AGENDA&src=bWdtY3VwbGFuZEBnbWFpbC5jb20&src=ZGpqZHIxc2pxYnUyMmZpZjVkbTU3dmtxcWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&color=%23A79B8E" style="border-width:0" width="560" height="420"></iframe>
@@ -82,7 +84,6 @@
 <?php include('footer-universal.php'); ?>
 
 </div>
-	<!-- Updated 7/20/2023 -->
 
 	<script>
 		(function (i, s, o, g, r, a, m) {

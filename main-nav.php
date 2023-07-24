@@ -1,4 +1,5 @@
-<!-- begin main-nav.php -->
+<?php // begin main-nav.php ?>
+
 <header class="header">
 			<h1>Marc Manley</h1>
 			<h2>Imam &amp; Religious Director</h2>
@@ -17,7 +18,7 @@
 
 				<dd class="thegram"><a href="https://www.instagram.com/sonofpierre/">Instagram</a></dd>
 
-				<!-- other links -->
+				<?php // other links ?>
 				
 				<dd><a href="pages/articles/dreaming-of-a-prophetic-life.php">Dreaming of a Prophetic Life</a></dd>
 				<dd><a href="pages/articles/performative-islam.php">Performative Islam</a></dd>
