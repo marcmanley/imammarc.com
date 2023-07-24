@@ -39,7 +39,7 @@ $rss_feed = '<?xml version="1.0" encoding="UTF-8"?>
 <channel>
   <title>ImamMarc.Com RSS Feed</title>
   <link>https://imammarc.com</link>
-  <description>RSS feed for articles on imammarc.com</description>';
+  <description>RSS feed for articles and posts on imammarc.com</description>';
 
 foreach ($files as $file) {
     $title = getTitleFromPHPFile($file);

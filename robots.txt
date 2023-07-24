@@ -1,0 +1,34 @@
+User-agent: \*
+Disallow: /admin/ # Disallow crawling of the admin directory
+Disallow: /private/ # Disallow crawling of the private directory
+Disallow: /tmp/ # Disallow crawling of the tmp directory
+Disallow: /cgi-bin/ # Disallow crawling of the cgi-bin directory
+Disallow: /wp-admin/ # Disallow crawling of WordPress admin pages
+Disallow: /wp-includes/ # Disallow crawling of WordPress includes
+Disallow: /wp-content/ # Disallow crawling of WordPress content
+Disallow: /feed/ # Disallow crawling of the RSS feed
+Disallow: /search/ # Disallow crawling of the search page
+
+# Allow crawling of specific directories
+
+Allow: /media/
+Allow: /css/
+Allow: /pages/
+
+# Allow crawling of specific files
+
+Allow: /sitemap.xml
+
+# Set crawl delay to 5 seconds (adjust as needed)
+
+Crawl-delay: 5
+
+# Set maximum crawl rate to 1 request per second (adjust as needed)
+
+# Rate-limiting for Googlebot
+
+# crawl-rate: 1/1
+
+# Specify the location of the sitemap file
+
+Sitemap: https://imammarc.com/sitemap.xml
