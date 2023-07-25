@@ -20,6 +20,7 @@
 
 				<?php // other links ?>
 				
+				<dd><a href="pages/articles/muslims-and-manhood-roots-of-a-modern-crisis.php">Muslims &amp; Manhood: Roots of a Modern Crisis</a></dd>
 				<dd><a href="pages/articles/dreaming-of-a-prophetic-life.php">Dreaming of a Prophetic Life</a></dd>
 				<dd><a href="pages/articles/performative-islam.php">Performative Islam</a></dd>
 				<dd><a href="pages/non-articles/ikhlas-salaam-islamic-center-july-2023.php">Ikhlas Retreat</a></dd>

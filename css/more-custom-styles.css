@@ -37,15 +37,15 @@ blockquote.clementine-quote {
   font-style: normal;
   font-size: 1.5rem;
   line-break: 1;
-  padding: 15px 25px 15px 25px;
-  width: 95%;
+  padding: 15px 30px 15px 30px;
+  width: 95% auto;
   text-align: justify;
 }
 
 .drop-cap::first-letter {
   font-family: "nassim-arabic-pro", sans-serif;
   -webkit-initial-letter: 4;
-  initial-letter: 4;
+  initial-letter: 3;
   color: #f24405;
   font-weight: bold;
   margin-right: 0.75em;

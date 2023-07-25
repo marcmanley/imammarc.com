@@ -6,15 +6,15 @@
 
 <?php // Social Media Thumbnail ?> 
 <meta property="og:title" content="Imam Marc Manley">
-	<meta property="og:description" content="Imam Marc Manley's Official Website">
-	<meta property="og:image" content="https://imammarc.com/media/imgs/dreaming-of-a-prophetic-life.png">
-	<meta property="og:url" content="https://imammarc.com/pages/articles/dreaming-of-a-prophetic-life.php"><!-- update thumbnail -->
-	<meta name="twitter:card" content="summary_large_image">
-  <meta property="og:type" content="website">
+<meta property="og:description" content="Imam Marc Manley's Official Website">
+<meta property="og:image" content="https://imammarc.com/media/imgs/dreaming-of-a-prophetic-life.png">
+<meta property="og:url" content="https://imammarc.com/pages/articles/dreaming-of-a-prophetic-life.php"><!-- update thumbnail -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:type" content="website">
 
-  <?php include('../../meta-2.php'); ?>
+<?php include('../../meta-2.php'); ?>
 
-  <title>Imam Marc &mdash; Dreaming of a Prophetic Life</title>
+<title>Imam Marc &mdash; Dreaming of a Prophetic Life</title>
 
 </head>
 
