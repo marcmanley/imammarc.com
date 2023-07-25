@@ -3,6 +3,7 @@
 <?php // meta-1.php ?>
 <?php // meta-2.php ?>
 <?php // main-nav.php ?>
+<?php // search.php ?>
 <?php // index.php ?>
 <?php // footer-universal.php or footer-home.php ?>
 
