@@ -31,8 +31,8 @@
 				<dd><a href="pages/articles/race-and-secularism-in-america-1.php">Race &amp; Secularism in America</a>
 				</dd>
 				<dd><a href="pages/articles/on-liberalism-modern-age-winter-2020.php">On Liberalism &mdash; Modern Age
-						Winter 2020</a></dd>
-				<dd><a href="pages/articles/readinglist.php">Reading List 2020</a></dd>
+						Winter 2023</a></dd>
+				<dd><a href="pages/articles/readinglist.php">Reading List 2023 (English)</a></dd>
 				<dd><a href="pages/articles/onblacklivesmatter-1.php">Black Lives Matter &amp; Systemic Racism</a></dd>
 			</dl>
 		</header>

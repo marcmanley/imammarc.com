@@ -15,38 +15,6 @@
   <?php include('../../meta-2.php'); ?>
 
   <title>Imam Marc Manley &mdash; Ikhlas Half-Day Retreat</title>
-  
-  <style>
-  .pages {
-    margin-top: 15px;
-  }
-
-  .home { 
-    margin-top: 15px;
-  }
-
-  .home a, .home a:link, .home a:visited {
-	text-decoration: none;
-	color: #fff;
-	background-color: #0455BF;
-	font-weight: 600;
-	padding: 5px;
-  margin-top: 10px;
-  text-transform: uppercase;
-  font-family: 'Days One', sans-serif;
-  border-radius: 5px;
-  font-size: 1rem;
-}
-
-  .date {
-    color: #fff;
-    background-color: #000;
-    padding: 5px 10px 0px 10px;
-    margin-bottom: 0;
-    border-radius: 5px;
-    display: inline-block;
-}
-  </style>
 
 </head>
 
@@ -60,14 +28,15 @@
     </header>
 
     <div class="main-content">
-      
+      <article>
       <p class="pages date">July 2023</p>
-      <p class="pages"><img class="qualifications-img" src="../../media/imgs/ikhlas-salaam-center.png" alt="Flyer for half-day retreat at the Salaam Center in Irvine, California"> al-Ḥamdulillāh, it was a real honor and pleasure to give the keynote speech at the <a href="https://salaamic.org/">Salaam Islamic Center's</a> retreat, <strong>Ikhlas: Seeking Divine Pleasure In Our Actions</strong>. You can listen below to the talk (our new <strong>Middle Ground Podcast</strong>).</p>
+      <p class="pages"><img class="article-content-img" src="../../media/imgs/ikhlas-salaam-center.png" alt="Flyer for half-day retreat at the Salaam Center in Irvine, California"> al-Ḥamdulillāh, it was a real honor and pleasure to give the keynote speech at the <a href="https://salaamic.org/">Salaam Islamic Center's</a> retreat, <strong>Ikhlas: Seeking Divine Pleasure In Our Actions</strong>. You can listen below to the talk (our new <strong>Middle Ground Podcast</strong>).</p>
       <p class="pages">The following are some videos I made around the subject of ikhlas.</p>
 
-		<div class="embed-responsive embed-responsive-16by9">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/KEoOeHoZ7A8" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-		</div>
+		  <div class="embed-responsive embed-responsive-16by9">
+			  <iframe width="560" height="315" src="https://www.youtube.com/embed/KEoOeHoZ7A8" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+		  </div>
+      </article>
 
     <p class="pages date" style="margin-bottom: 15px;">June 2023</p>
     <div class="embed-responsive embed-responsive-16by9">

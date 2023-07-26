@@ -16,38 +16,6 @@
 
   <title>Black Lives Matter &amp; Systemic Racism</title>
   
-  <style>
-  .pages {
-    margin-top: 15px;
-  }
-
-  .home { 
-    margin-top: 15px;
-  }
-
-  .home a, .home a:link, .home a:visited {
-	text-decoration: none;
-	color: #fff;
-	background-color: #0455BF;
-	font-weight: 600;
-	padding: 5px;
-  margin-top: 10px;
-  text-transform: uppercase;
-  font-family: 'Days One', sans-serif;
-  border-radius: 5px;
-  font-size: 1rem;
-}
-
-  .date {
-    color: #fff;
-    background-color: #000;
-    padding: 5px 10px 0px 10px;
-    margin-bottom: 0;
-    border-radius: 5px;
-    display: inline-block;
-}
-  </style>
-  
 </head>
 
 <body>
@@ -56,13 +24,13 @@
     <header class="header">
       <h1>Black Lives Matter &amp; Systemic Racism</h1>
       <h3>A Conversation with Dr. Abdullah bin Hamid Ali</h3>
-      <img style="width: 100%;" src="../../media/imgs/blacklivesmatter-lamppost-1.png" alt="Black Lives Matter">
     </header>
 
     <div class="main-content">
       <article>
         <div class="author-intro">
-          <p>It is seldom these days to have a civil conversation even when both parties stand ardently in their
+          <img src="../../media/imgs/blacklivesmatter-lamppost-1.png" alt="Black Lives Matter" class="article-content-img">
+          <p class="pages">It is seldom these days to have a civil conversation even when both parties stand ardently in their
             respective camps. I greatly enjoyed my conversation with Dr. Ali from the <a
               href="https://lamppostedu.org">Lamppost Education Initiative</a>. May Allah put benefit in it for us and
             our community and make us from those who argue, ableit with passion, with <em>adab</em>.
@@ -75,7 +43,7 @@
           allowTransparency="true" allowFullScreen="true"></iframe>
         </div>
 
-        <p>For those interested, these are a few of the sources I referenced in the talk or used to prepare for it: (1)
+        <p class="pages">For those interested, these are a few of the sources I referenced in the talk or used to prepare for it: (1)
           <strong><a href="https://upenn.box.com/s/kyfdnqef9lvnstbyw2bncpd9gdhzwyzh" target="_blank">Perry</a></strong>
           - <em>More Beautiful and More Terrible</em>; (2) <strong><a
               href="https://upenn.box.com/s/vj45kt98niqssa0ppkmfmbgju8df7ppp" target="_blank">Shapiro</a></strong> -
@@ -90,7 +58,7 @@
           <strong><a href="https://upenn.box.com/s/fv2m8dr249zqer0vbks5lpejgbile5pl" target="_blank">Sugrue</a></strong>
           - <em>The Origins of the Urban Crisis</em>.</p>
 
-        <p>Jazakum’Allahu khayran everyone today for your time.</p>
+        <p class="pages">Jazakum’Allahu khayran everyone today for your time.</p>
 
       </article>
       

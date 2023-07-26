@@ -16,38 +16,6 @@
 
   <title>Imam Marc &mdash; Fit At 50</title>
 
-  <style>
-  .pages {
-    margin-top: 15px;
-  }
-
-  .home { 
-    margin-top: 15px;
-  }
-
-  .home a, .home a:link, .home a:visited {
-	text-decoration: none;
-	color: #fff;
-	background-color: #0455BF;
-	font-weight: 600;
-	padding: 5px;
-  margin-top: 10px;
-  text-transform: uppercase;
-  font-family: 'Days One', sans-serif;
-  border-radius: 5px;
-  font-size: 1rem;
-}
-
-  .date {
-    color: #fff;
-    background-color: #000;
-    padding: 5px 10px 0px 10px;
-    margin-bottom: 0;
-    border-radius: 5px;
-    display: inline-block;
-}
-  </style>
-
 </head>
 
 <body>
@@ -61,7 +29,8 @@
     <div class="main-content">
       
       <p class="pages date">June 2023</p>
-      <p class="pages"><img class="qualifications-img" src="../../media/imgs/fit-at-50-one-year-update.png" alt="YouTube thumbnail for the video: Fifty and Fit: Year One Update | Lessons & Transformations"> In 2021, I started a new fitness endeavor. I began with intermittent fasting. By 2022, I added a new initiative to the mix, at 49, which I called <strong>Fit at 50</strong>, in hopes of being in better health by 50. Now that I’ve turned 50 here are some reflections and what worked and where I’m headed now.</p>
+      <img class="article-content-img" src="../../media/imgs/fit-at-50-one-year-update.png" alt="YouTube thumbnail for the video: Fifty and Fit: Year One Update | Lessons & Transformations">
+      <p class="pages drop-cap">In 2021, I started a new fitness endeavor. I began with intermittent fasting. By 2022, I added a new initiative to the mix, at 49, which I called <strong>Fit at 50</strong>, in hopes of being in better health by 50. Now that I’ve turned 50 here are some reflections and what worked and where I’m headed now.</p>
 
 		<div class="embed-responsive embed-responsive-16by9">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl8g6a6tST4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

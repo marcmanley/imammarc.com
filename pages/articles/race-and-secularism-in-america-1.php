@@ -16,38 +16,6 @@
 
 <title>Imam Marc Manley &mdash; Race &amp; Secularism in Amerca</title>
   
-<style>
-  .pages {
-    margin-top: 15px;
-  }
-
-  .home { 
-    margin-top: 15px;
-  }
-
-  .home a, .home a:link, .home a:visited {
-	text-decoration: none;
-	color: #fff;
-	background-color: #0455BF;
-	font-weight: 600;
-	padding: 5px;
-  margin-top: 10px;
-  text-transform: uppercase;
-  font-family: 'Days One', sans-serif;
-  border-radius: 5px;
-  font-size: 1rem;
-}
-
-  .date {
-    color: #fff;
-    background-color: #000;
-    padding: 5px 10px 0px 10px;
-    margin-bottom: 0;
-    border-radius: 5px;
-    display: inline-block;
-}
-  </style>
-  
 </head>
 
 <body>

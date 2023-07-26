@@ -23,10 +23,14 @@
 		<div id="wrapper">
 			<header class="header">
 			<h1>Reading List 2020 (Articles)</h1>
-			<p style="margin-top: 20px;">In addition to my <a href="readinglist.html">book reading list</a>, I also have a big (mostly electronic) stack of articles that I'm also reading</p>
 			</header>
 
-			<div class="qualifications">
+			<div class="main-content">
+
+			<img src="../../media/imgs/imammarc_tron_arab_scholar_with_quran_arabesque_futuristic-blue.png" alt="Mid Journey art created by Marc Manley - Islamic futurism" class="article-content-img">
+			<p class="pages">In addition to my <a href="readinglist.php">book reading list</a>, I also have a big (mostly electronic) stack of articles that I'm also reading.</p>
+
+			<div class="article-content authorslastname">
 				<ul>
 			<li>Abd-Allah - Innovation and Creativity in Islam</li>
 			<li>Abd-Allah - Islam and the Cultural Imperative</li>
@@ -448,6 +452,19 @@
 		<?php include('../../footer-home.php'); ?>
 
 	</div>
+
+	<script>
+	// Get all the li elements
+	const liElements = document.querySelectorAll('.authorslastname li');
+
+	// Loop through each li element
+	liElements.forEach(li => {
+    // Split the text content by '-'
+    const parts = li.textContent.trim().split('-');
+    // Create a new HTML string with the first word bolded
+    li.innerHTML = `<strong>${parts[0]}</strong> - ${parts.slice(1).join('-')}`;
+});
+	</script>
 
 	<script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

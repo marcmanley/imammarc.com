@@ -15,38 +15,6 @@
 <?php include('../../meta-2.php'); ?>
 
 <title>Imam Marc Manley &mdash; Reading List 2020</title>
-  
-<style>
-  .pages {
-    margin-top: 15px;
-  }
-
-  .home { 
-    margin-top: 15px;
-  }
-
-  .home a, .home a:link, .home a:visited {
-	text-decoration: none;
-	color: #fff;
-	background-color: #0455BF;
-	font-weight: 600;
-	padding: 5px;
-  margin-top: 10px;
-  text-transform: uppercase;
-  font-family: 'Days One', sans-serif;
-  border-radius: 5px;
-  font-size: 1rem;
-}
-
-  .date {
-    color: #fff;
-    background-color: #000;
-    padding: 5px 10px 0px 10px;
-    margin-bottom: 0;
-    border-radius: 5px;
-    display: inline-block;
-}
-  </style>
 	
 </head>
 
@@ -54,13 +22,17 @@
 	<div class="color-band"></div>
 	<div id="wrapper">
 		<header class="header">
-			<h1>Reading List 2020</h1>
-			<p style="margin-top: 20px;">Believe it or not, this list isn't complete. But these are most of the books I'm
-				referencing for either personal or professional use. I use these books to teach from, to be inspired from, and
-				to just gain more knowledge as well as to keep up the practice of reading in general.</p>
+			<h1>Reading List 2023</h1>
+			<h3>I'm Always Reading Something</h3>
 		</header>
 
-		<div class="qualifications">
+		<div class="main-content">
+
+			<img src="../../media/imgs/imammarc_tron_arab_scholar_with_quran_arabesque_futuristic.png" alt="Mid Journey art created by Marc Manley - Islamic futurism" class="article-content-img">
+			<p class="pages">Believe it or not, this list isn't complete. But these are most of the books I'm referencing for either personal or professional use. I use these books to teach from, to be inspired from, and to just gain more knowledge as well as to keep up the practice of reading in general. For articles that I'm reading, <a href="readinglist-articles.php">see here</a>.</p>
+		
+
+		<div class="article-content authorslastname">
 			<ul>
 				<li>Adas - Dominance by Design - Technological Imperatives and America's Civilizing Mission</li>
 				<li>Adas - Machines As the Measure of Men - Science, Technology, and Ideologies of Western Dominance</li>
@@ -168,6 +140,19 @@
 		<?php include('../../footer-home.php'); ?>
 
 	</div>
+	
+	<script>
+	// Get all the li elements
+	const liElements = document.querySelectorAll('.authorslastname li');
+
+	// Loop through each li element
+	liElements.forEach(li => {
+    // Split the text content by '-'
+    const parts = li.textContent.trim().split('-');
+    // Create a new HTML string with the first word bolded
+    li.innerHTML = `<strong>${parts[0]}</strong> - ${parts.slice(1).join('-')}`;
+});
+	</script>
 
 	<script>
 		(function (i, s, o, g, r, a, m) {
@@ -179,7 +164,6 @@
 
 		ga('create', 'UA-62075617-1', 'auto');
 		ga('send', 'pageview');
-
 	</script>
 </body>
 

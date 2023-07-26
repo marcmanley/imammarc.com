@@ -16,38 +16,6 @@
 
   <title>Imam Marc Manley &mdash; On Liberalism &mdash; <em>Modern Age</em> Winter 2020</title>
   
-  <style>
-  .pages {
-    margin-top: 15px;
-  }
-
-  .home { 
-    margin-top: 15px;
-  }
-
-  .home a, .home a:link, .home a:visited {
-	text-decoration: none;
-	color: #fff;
-	background-color: #0455BF;
-	font-weight: 600;
-	padding: 5px;
-  margin-top: 10px;
-  text-transform: uppercase;
-  font-family: 'Days One', sans-serif;
-  border-radius: 5px;
-  font-size: 1rem;
-}
-
-  .date {
-    color: #fff;
-    background-color: #000;
-    padding: 5px 10px 0px 10px;
-    margin-bottom: 0;
-    border-radius: 5px;
-    display: inline-block;
-}
-  </style>
-  
 </head>
 
 <body>
@@ -77,7 +45,7 @@
         <h3>The Ideal Teacher of Literature</h3>
         <h4>by Cicero Bruce</h4>
 
-        <p>With his students, the ideal teacher of literature seeks the center of knowledge, which he understands in
+        <p class="drop-cap">With his students, the ideal teacher of literature seeks the center of knowledge, which he understands in
           metaphysical or theological terms. His vehicle is poetry, by which he means the imaginative creation of action
           and character in either prose or verse. When they seek the center in communion with the greatest of poets,
           teacher and student alike transcend the mutable world and begin to grasp, according to Paul Elmer More, "in

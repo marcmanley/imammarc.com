@@ -16,50 +16,6 @@
 
   <title>Imam Marc Manley &mdash; The Modernist Muslim</title>
   
-  <style>
-  .pages {
-    margin-top: 15px;
-  }
-
-  .home { 
-    margin-top: 15px;
-  }
-
-  .home a, .home a:link, .home a:visited {
-	text-decoration: none;
-	color: #fff;
-	background-color: #0455BF;
-	font-weight: 600;/*  */
-	padding: 5px;
-  margin-top: 10px;
-  text-transform: uppercase;
-  font-family: 'Days One', sans-serif;
-  border-radius: 5px;
-  font-size: 1rem;
-}
-
-  .date {
-    color: #fff;
-    background-color: #000;
-    padding: 5px 10px 0px 10px;
-    margin-bottom: 0;
-    border-radius: 5px;
-    display: inline-block;
-}
-
-blockquote {
-	/* font-family: 'Andada', serif;
-	font-style: italic; */
-	font-family: "forma-djr-text", sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 1.3em;
-	padding: 15px 30px 15px 30px;
-  background-color: #d8d8d8;
-  border-left: 5px solid #F24405;
-}
-  </style>
-  
 </head>
 
 <body>
@@ -67,11 +23,13 @@ blockquote {
   <div id="wrapper">
     <header class="header">
       <h1>The Modernist Muslim</h1>
+      <h3>And Anti-Intellectualism</h3>
     </header>
 
     <div class="main-content">
       <article>
-        <p>There is no greater indication of the modernist mindset than the one who makes false gestures towards humility and piety by claiming that they are not a scholar while in the very same sentence they not only dismiss what scholars have said but feel no sense of need or urgency to know what scholars before them have said on a matter. Instead, such individuals relying purely on their own speculative thinking which results in the collapsing of Islam into an artificial one dimensional &mdash; not reality &mdash; but fantasy.</p>
+        <img src="../../media/imgs/imammarc_starship_enterprise_ottoman_mosque_spaceship_intergalacticpng.png" alt="Mid Journey art created by Marc Manley - Islamic futurism" class="article-content-img">
+        <p class="pages drop-cap">There is no greater indication of the modernist mindset than the one who makes false gestures towards humility and piety by claiming that they are not a scholar while in the very same sentence they not only dismiss what scholars have said but feel no sense of need or urgency to know what scholars before them have said on a matter. Instead, such individuals relying purely on their own speculative thinking which results in the collapsing of Islam into an artificial one dimensional &mdash; not reality &mdash; but fantasy.</p>
       </article>
 
       <!-- Twitter quote -->

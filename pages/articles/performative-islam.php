@@ -15,63 +15,6 @@
 <?php include('../../meta-2.php'); ?>
 
 <title>Imam Marc Manley &mdash; Performative Islam</title>
-
-<style>
-  .pages {
-    margin-top: 15px;
-  }
-
-  .home { 
-    margin-top: 15px;
-  }
-
-  .home a, .home a:link, .home a:visited {
-	text-decoration: none;
-	color: #fff;
-	background-color: #438CCA;
-	font-weight: 600;/*  */
-	padding: 5px;
-  margin-top: 10px;
-  text-transform: uppercase;
-  font-family: 'Days One', sans-serif;
-  border-radius: 5px;
-  font-size: 1rem;
-}
-
-  .date {
-    color: #fff;
-    background-color: #000;
-    padding: 5px 10px 0px 10px;
-    margin-bottom: 0;
-    border-radius: 5px;
-    display: inline-block;
-}
-
-blockquote {
-	/* font-family: 'Andada', serif;
-	font-style: italic; */
-	font-family: "forma-djr-text", sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 1.3em;
-	padding: 15px 30px 15px 30px;
-  background-color: #d8d8d8;
-  border-left: 5px solid #F24405;
-}
-
-li {
-	/* font-family: 'Andada', serif;
-	font-style: italic; */
-	/* font-family: "forma-djr-text", sans-serif; */
-	font-weight: 400;
-	font-style: normal;
-	/* font-size: 1.3em; */
-  margin-bottom: 15px;
-	padding: 10px 30px 0 15px;
-  background-color: #e8e8e8;
-  border-left: 5px solid #438CCA;
-}
-  </style>
   
 </head>
 
@@ -86,13 +29,11 @@ li {
     <div class="main-content">
 
       <article>
-        <img class="qualifications-img" src="../../media/imgs/kabuki-1.png" alt="Thumbnail image of a man receiving kabuki makeup">
+        <img class="article-content-img" src="../../media/imgs/kabuki-1.png" alt="Thumbnail image of a man receiving kabuki makeup">
         <h3>The Theatre of Muslim Social Media</h3>
-          <p>My reason for posting this video is mainly twofold:</p>
-          <ol>
-            <li>For Daniel Haqiqatjou: take a good look in the mirror and put aside this Ali G-like persona you’ve become and come back to reality.</li>
-            <li>For others: beware of those who make startling transformations right before your eyes.</li>
-          </ol>
+          <p class="pages">My reason for posting this video is mainly twofold:</p>
+          <p class="pages">One, for Daniel Haqiqatjou: take a good look in the mirror and put aside this Ali G-like persona you’ve become and come back to reality.</p>
+          <p class="pages">Two, for others: beware of those who make startling transformations right before your eyes.</p>
           <p>Such individuals are not well and I do not mean “mental health”: the heart is disturbed. When they can don a new costume and force the world into an artificial one-dimensional fantasy in which they have cast themselves are the underdog reluctant hero in their own play, a play Shakespeare himself would have been proud of, full of betrayal and intrigue, then know that such a transformation is as fake, and dramatized!, as a three dollar bill.</p>
           <p>Here’s the Muslim Septic back in July 2015 chillin’ with all the "deviant Muslims" at my house for Eid.</p>
 
