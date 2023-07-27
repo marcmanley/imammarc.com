@@ -249,11 +249,7 @@ dd.fb {
   #homepage-links dd {
     font-size: 1.55em;
   }
-  #skipTo,
-  header nav a,
-  header nav li {
-    display: block;
-  }
+
   h1 {
     font-size: 2.5rem;
     line-height: 2rem;
@@ -283,22 +279,7 @@ dd.fb {
     background-color: #888;
     color: #f1f1f1;
   }
-  #main,
-  aside,
-  header nav {
-    float: left;
-    clear: left;
-    margin: 0 0 10px;
-    width: 100%;
-  }
-  header nav li {
-    margin: 0 0 3px;
-    background: #efefef;
-  }
-  header nav a {
-    padding: 10px;
-    text-align: center;
-  }
+
   .youtube {
     position: relative;
     padding-bottom: 56.25%;

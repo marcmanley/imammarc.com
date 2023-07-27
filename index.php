@@ -33,7 +33,7 @@
 			<img class="article-content-img" src="media/imgs/ikhlas-salaam-center.png" alt="Flyer for half-day retreat at the Salaam Center in Irvine, California">
 			<p class="pages">al-Ḥamdulillāh, it was a real honor and pleasure to give the keynote speech at the <a href="https://salaamic.org/">Salaam Islamic Center's</a> retreat, <strong>Ikhlas: Seeking Divine Pleasure In Our Actions</strong>. You can listen below to the talk (our new <strong>Middle Ground Podcast</strong>).</p>
 
-	<p>For more videos on the retreat <a href="pages/non-articles/ikhlas-salaam-islamic-center-july-2023.php">click here.</a></p>
+			<p>For more videos on the retreat <a href="pages/non-articles/ikhlas-salaam-islamic-center-july-2023.php">click here.</a></p>
 
 	<?php // future spot for audio player ?>
 
