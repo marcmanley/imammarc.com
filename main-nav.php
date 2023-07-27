@@ -5,7 +5,7 @@
 			<h2>Imam &amp; Religious Director</h2>
 			<div id="homepage-links">
 				<dl> 
-				<dt></dt>
+				<dt>Social Links</dt>
 
 				<dd class="phone"><a href="tel:+19094519770">909-451-9770</a></dd>
 
@@ -18,9 +18,11 @@
 				<dd class="twitter"><a href="https://twitter.com/imam_marc">Twitter</a></dd>
 
 				<dd class="thegram"><a href="https://www.instagram.com/sonofpierre/">Instagram</a></dd>
+</dl>
 
 				<?php // other links ?>
-				
+				<dl>
+					<dt style="padding-bottom: 4px">Writings &amp; Posts</dt>
 				<dd><a href="pages/articles/muslims-and-manhood-roots-of-a-modern-crisis.php">Muslims &amp; Manhood: Roots of a Modern Crisis</a></dd>
 				<dd><a href="pages/articles/dreaming-of-a-prophetic-life.php">Dreaming of a Prophetic Life</a></dd>
 				<dd><a href="pages/articles/performative-islam.php">Performative Islam</a></dd>
