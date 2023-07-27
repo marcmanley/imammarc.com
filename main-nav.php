@@ -3,7 +3,8 @@
 <header class="header">
 			<h1>Marc Manley</h1>
 			<h2>Imam &amp; Religious Director</h2>
-			<dl>
+			<div id="homepage-links">
+				<dl> 
 				<dt></dt>
 
 				<dd class="phone"><a href="tel:+19094519770">909-451-9770</a></dd>
@@ -35,4 +36,5 @@
 				<dd><a href="pages/articles/readinglist.php">Reading List 2023 (English)</a></dd>
 				<dd><a href="pages/articles/onblacklivesmatter-1.php">Black Lives Matter &amp; Systemic Racism</a></dd>
 			</dl>
+		</div>
 		</header>

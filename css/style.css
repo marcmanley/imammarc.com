@@ -89,6 +89,9 @@ iframe {
   margin: auto;
   padding: 2%;
 }
+#homepage-links dd {
+  font-size: 1.5em;
+}
 #main-footer {
   text-transform: uppercase;
   align-items: center;
@@ -100,7 +103,7 @@ iframe {
   border-radius: 5px;
 }
 #main-footer p {
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 #main-footer,
 .job h4 {
@@ -231,10 +234,16 @@ dd.fb {
 }
 /* ------ Media Queries ------ */
 @media screen and (max-width: 480px) {
+  #home-page p {
+    font-size: 1.6em;
+  }
   .header h1,
   .header p,
   .main-content {
     margin: 1rem 0 0;
+  }
+  #homepage-links dd {
+    font-size: 1.55em;
   }
   #skipTo,
   header nav a,

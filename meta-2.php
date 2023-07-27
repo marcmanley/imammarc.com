@@ -6,6 +6,8 @@
 <link rel="stylesheet" href="https://imammarc.com/css/more-custom-styles.css?v=1" type="text/css" media="screen">
 <link rel="stylesheet" href="https://imammarc.com/css/print.css?ver=1" type="text/css" media="print">
 <link href="https://fonts.googleapis.com/css?family=Days+One" rel="stylesheet" type="text/css">
+<?php // Canonical tag for printing ?>
+<link rel="canonical" href="<?php echo $canonicalURL; ?>">
 <link href="https://fonts.googleapis.com/css?family=Andada" rel="stylesheet" type="text/css">
 	<?php // Adobe/Web Fonts ?>
 <link rel="stylesheet" href="https://use.typekit.net/lpf4yky.css?v=1">

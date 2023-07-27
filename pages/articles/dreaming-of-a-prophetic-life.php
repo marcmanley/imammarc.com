@@ -12,6 +12,11 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:type" content="website">
 
+<?php
+// Define the canonical URL for each page
+$canonicalURL = 'https://imammarc.com/pages/dreaming-of-a-prophetic-life.php';
+?>
+
 <?php include('../../meta-2.php'); ?>
 
 <title>Imam Marc &mdash; Dreaming of a Prophetic Life</title>

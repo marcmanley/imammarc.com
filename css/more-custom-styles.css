@@ -92,6 +92,15 @@ blockquote.clementine-quote {
   font-weight: 900 !important;
 }
 
+.bio-pic img {
+  float: left;
+  padding: 0 5px 10px 0;
+}
+
+.mg-calendar {
+  margin: 0 0 15px 0;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 480px) {
@@ -102,7 +111,7 @@ blockquote.clementine-quote {
     font-family: "nassim-arabic-pro", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 1.5em;
+    font-size: 1.6em;
     padding: 7px 15px 7px 15px;
     float: none;
     width: auto;
@@ -123,5 +132,10 @@ blockquote.clementine-quote {
     background-color: #000;
     border-radius: 5px;
     display: inline-block;
+  }
+
+  .bio-pic img {
+    float: left;
+    padding: 0 5px 5px 0;
   }
 }

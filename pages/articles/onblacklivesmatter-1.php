@@ -11,6 +11,11 @@
 	<meta property="og:url" content="https://imammarc.com">
 	<meta name="twitter:card" content="summary_large_image">
   <meta property="og:type" content="website">
+
+  <?php
+// Define the canonical URL for each page
+$canonicalURL = 'https://imammarc.com/pages/onblacklivesmatter-1.php';
+?>
   
 	<?php include('../../meta-2.php'); ?>
 
