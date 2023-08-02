@@ -31,12 +31,16 @@
 		<dd><a href="pages/articles/performative-islam.php">Performative Islam</a></dd>
 		<dd><a href="pages/non-articles/ikhlas-salaam-islamic-center-july-2023.php">Ikhlas Retreat</a></dd>
 		<dd><a href="pages/articles/modernist-muslims.php">The Modernist Muslim</a></dd>
+		<dd><a href="https://www.youtube.com/watch?v=9D5lFYtBQQ8">5 Qur’anic Verses For Answering LGBTQ</a></dd>
 		<dd><a href="pages/non-articles/fit-at-50.php">Fit At 50</a></dd>
+		<dd><a href="pages/articles/readinglist.php">Reading List 2023 (English)</a></dd>
+		<!-- Older link to be eventually moved to separate page -->
+		<!--
 		<dd><a href="pages/articles/islam-and-evolution-did-life-find-a-way.php">Islam &amp; Evolution: Did Life Find A Way?</a></dd>
 		<dd><a href="pages/articles/race-and-secularism-in-america-1.php">Race &amp; Secularism in America</a></dd>
 		<dd><a href="pages/articles/on-liberalism-modern-age-winter-2020.php">On Liberalism &mdash; Modern Age Winter 2023</a></dd>
-		<dd><a href="pages/articles/readinglist.php">Reading List 2023 (English)</a></dd>
 		<dd><a href="pages/articles/onblacklivesmatter-1.php">Black Lives Matter &amp; Systemic Racism</a></dd>
+		-->
 		</dl>
 		</nav>
 	</div>
