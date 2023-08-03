@@ -24,6 +24,7 @@
 		<?php // other links ?>
 		<dl>
 		<dt style="padding-bottom: 4px">Writings &amp; Posts</dt>
+		<dd><a href="https://imammarc.com/pages/articles/meaning-and-terminology-in-the-quran-1.php">Meaning &amp; Terminology in the Qur'an</a></dd>
 		<dd><a href="pages/articles/guard-your-narrative.php">Guard Your Narrative</a></dd>
 		<dd><a href="pages/articles/islamic-psychology-1.php">Islamic Psychology: Does It Live Up to Its Name?</a></dd>
 		<dd><a href="pages/articles/muslims-and-manhood-roots-of-a-modern-crisis.php">Muslims &amp; Manhood: Roots of a Modern Crisis</a></dd>
