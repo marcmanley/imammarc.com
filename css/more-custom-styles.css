@@ -123,6 +123,13 @@ a:visited {
     width: auto;
   }
 
+  .arabic-normal {
+    font-size: 1.85rem;
+    margin: 0 0 0 0;
+    padding: 5px 12px 5px 5px;
+    min-width: 25ch;
+  }
+
   .drop-cap::first-letter {
     -webkit-initial-letter: 3;
     initial-letter: 3;
