@@ -36,7 +36,7 @@
 
     <p class="pages">The Children of Isrā’īl, who received the Torah, a Book by Allāh’s own words which is filled with light an guidance, attempted to alter the Speech and Commandment of God by concocting a new punishment for adultery. This is important for us for Allāh clearly admonishes Banī Isrā’īl in the Fifth chapter of the Qur’ān,</p>
 
-    <blockquote class="arabic-normal">يَأْتُوكَ ۖ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ ۖ
+    <blockquote class="arabic-normal">يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ ۖ
 </blockquote>
   <blockquote class="clementine-quote">“They distort the words of Scripture from their proper meanings” &mdash; Surah al-Ma’idah v. 41
 </blockquote>
