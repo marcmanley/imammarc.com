@@ -57,10 +57,16 @@
           <iframe width="560" height="315" src="https://www.youtube.com/embed/2eJq1wEBae8" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
 
-        <h3 style="margin: 15px 0 15px 0;">The Myth of Two Islams</h3>
+        <h3>The Myth of Two Islams</h3>
 
         <div class="embed-responsive embed-responsive-16by9">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/rr_5JxbGgpI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+
+        <h3>Islām, Orientalism, and the Modern Muslim</h3>
+
+        <div class="embedresponsive embed-responsive-16by9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/6VUZ8sDy4f4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
       </article>
       
