@@ -66,6 +66,10 @@ blockquote.clementine-quote {
   clear: both;
 }
 
+.main-content article h3 {
+  margin: 15px 0 15px 0;
+}
+
 .home {
   margin: 15px 0 0 0;
 }

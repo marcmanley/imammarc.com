@@ -28,6 +28,8 @@
 
     <div class="main-content">
 
+      <p class="pages date">August 2023</p>
+
       <article>
         <img class="article-content-img" src="../../media/imgs/kabuki-1.png" alt="Thumbnail image of a man receiving kabuki makeup">
         <h3>The Theatre of Muslim Social Media</h3>
@@ -43,7 +45,7 @@
       </article>
 
       <article>
-        <p style="margin-top: 15px;">I have prepared a few videos discussing the phenomenon of what I call <strong>performative Islam</strong> in that I have observed over time the shift from <em>practicing Islam</em>, as a means of describing and embodying piety, to where it is <em>performed</em> for an audience. This, I feel, is most so with those who've become Muslim, especially those in positions of leadership.</p>
+        <p class="pages">I have prepared a few videos discussing the phenomenon of what I call <strong>performative Islam</strong> in that I have observed over time the shift from <em>practicing Islam</em>, as a means of describing and embodying piety, to where it is <em>performed</em> for an audience. This, I feel, is most so with those who've become Muslim, especially those in positions of leadership.</p>
 
         <h3>From Practicing Islam to Performative Islam</h3>
 
@@ -63,9 +65,9 @@
           <iframe width="560" height="315" src="https://www.youtube.com/embed/rr_5JxbGgpI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
 
-        <h3>Islām, Orientalism, and the Modern Muslim</h3>
+        <h3>Islam, Orientalism, and the Modern Muslim</h3>
 
-        <div class="embedresponsive embed-responsive-16by9">
+        <div class="embed-responsive embed-responsive-16by9">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/6VUZ8sDy4f4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
       </article>

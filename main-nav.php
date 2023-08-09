@@ -24,12 +24,12 @@
 		<?php // other links ?>
 		<dl>
 		<dt style="padding-bottom: 4px">Writings &amp; Posts</dt>
+		<dd><a href="pages/articles/performative-islam.php">Performative Islam (Updated)</a></dd>
 		<dd><a href="https://imammarc.com/pages/articles/meaning-and-terminology-in-the-quran-1.php">Meaning &amp; Terminology in the Qur'an</a></dd>
 		<dd><a href="pages/articles/guard-your-narrative.php">Guard Your Narrative</a></dd>
 		<dd><a href="pages/articles/islamic-psychology-1.php">Islamic Psychology: Does It Live Up to Its Name?</a></dd>
 		<dd><a href="pages/articles/muslims-and-manhood-roots-of-a-modern-crisis.php">Muslims &amp; Manhood: Roots of a Modern Crisis</a></dd>
 		<dd><a href="pages/articles/dreaming-of-a-prophetic-life.php">Dreaming of a Prophetic Life</a></dd>
-		<dd><a href="pages/articles/performative-islam.php">Performative Islam</a></dd>
 		<dd><a href="pages/non-articles/ikhlas-salaam-islamic-center-july-2023.php">Ikhlas Retreat</a></dd>
 		<dd><a href="pages/articles/modernist-muslims.php">The Modernist Muslim</a></dd>
 		<dd><a href="https://www.youtube.com/watch?v=9D5lFYtBQQ8">5 Qur’anic Verses For Answering LGBTQ</a></dd>
